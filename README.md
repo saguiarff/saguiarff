@@ -1,5 +1,8 @@
-## Hi there 👋
+### Hi there 👋
+ I'm Sofia, a 20 year old brazilian I.T. student, based on The Dreaming realm from Sandman (naturallly, only in my dreams)
+ I study Web Systems in a Federal Institute in Brazil and I'm a total beginner developer.
 
+ ### Thank you for checking out my humble profile 🙇🏻‍♀️
 <!--
 **saguiarff/saguiarff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
