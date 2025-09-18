@@ -1,5 +1,5 @@
 ## Hi there 👋
-  I'm Sofia, a 20 year old brazilian I.T. student, based on The Dreaming realm from Sandman (naturallly, only in my dreams) <br>
+  I'm Sofia, a 20 year old brazilian I.T. student, based in The Dreaming realm from Sandman (naturallly, only in my dreams) <br>
   I study Web Systems in a Federal Institute in Brazil and I'm a total beginner developer.
 
  ### Thank you for checking out my humble profile 🙇🏻‍♀️
